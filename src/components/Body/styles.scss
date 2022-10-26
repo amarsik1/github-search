@@ -1,0 +1,8 @@
+.Body {
+  padding-top: 30px;
+
+  &--usersList {
+    max-height: 400px;
+    overflow: overlay;
+  }
+}
